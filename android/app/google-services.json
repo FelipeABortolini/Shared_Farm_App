@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "151892709562",
+    "firebase_url": "https://farm-erp-2023-default-rtdb.firebaseio.com",
+    "project_id": "farm-erp-2023",
+    "storage_bucket": "farm-erp-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151892709562:android:ebfe32cc41a11b02f0b283",
+        "android_client_info": {
+          "package_name": "com.example.app_farm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151892709562-i8c3qmccfpebbc4n01gqvovokk68cnre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmCpLWp5fXJR7EhuNDP7vuV66JA2GxMHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151892709562-i8c3qmccfpebbc4n01gqvovokk68cnre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151892709562:android:03c6f48538544c1ef0b283",
+        "android_client_info": {
+          "package_name": "com.example.flv_farm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151892709562-i8c3qmccfpebbc4n01gqvovokk68cnre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmCpLWp5fXJR7EhuNDP7vuV66JA2GxMHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151892709562-i8c3qmccfpebbc4n01gqvovokk68cnre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
